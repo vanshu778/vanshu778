@@ -189,6 +189,24 @@ Here are some ideas to get you started:
 </div>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
+# ⚡ Achievements & Stackoverflow
+
+<table>
+  <tr>
+    <!-- Uncomment and use this if you want to display the Stack Overflow card -->
+    <!-- <td>
+      <img src="https://stackoverflow-card.vercel.app/?userID=22938645&theme=dracula" alt="Stack Overflow Card" />
+    </td> -->
+    <td>
+      <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />
+    </td>
+    <td>
+      <img src="https://github-stackoverflow-readme.vercel.app/?userId=26988282" alt="GitHub Stack Overflow" />
+    </td>
+  </tr>
+</table>
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
+
  # 🔝 Top Contributed Repo & Leetcode
 <table>
   <tr>
@@ -253,18 +271,18 @@ Here are some ideas to get you started:
 <br>
 
 
-<!--# 🔥 3D Contributions Chart
+# 🔥 3D Contributions Chart
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dpvasani/dpvasani/output-3d-contrib/night.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dpvasani/dpvasani/output-3d-contrib/day.svg" />
   <img alt="3D Contributions Chart" src="https://raw.githubusercontent.com/dpvasani/dpvasani/output-3d-contrib/profile-night-green.svg" />
 </picture>
--->
 
-<!--
+
+
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-
+<!--
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/dpvasani65?v=1)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy)
