@@ -105,6 +105,10 @@ Here are some ideas to get you started:
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn icon" width="55" height="55" />
       <br>LinkedIn
     </td>
+       <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" alt="LinkedIn icon" width="55" height="55" />
+      <br>C
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -122,6 +126,10 @@ Here are some ideas to get you started:
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap icon" width="55" height="55" />
       <br>Bootstrap
+    </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Bootstrap icon" width="55" height="55" />
+      <br>Figma
     </td>
   </tr>
 </table>
