@@ -26,14 +26,15 @@ Here are some ideas to get you started:
 
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Socials </h1>
 <p align="left">
-<!--   <a href="https://x.com/vasanidarshan56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dpvasani_56" height="30" width="40" /></a> -->
-  <a href="https://www.linkedin.com/in/vanshu778/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Darshan Vasani" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/dp_vasani56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dp_vasani56" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/vanshu778/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dpvasani_56" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/vanshu778/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dpvasani56" height="30" width="40" /></a>
+<a href="https://x.com/vthesiya_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vthesiya_11" height="30" width="40" /></a> -->
+  <a href="https://www.linkedin.com/in/vanshu778/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vanshika Thesiya" height="30" width="40" /></a>
+<!--   <a href="https://www.instagram.com/dp_vasani56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dp_vasani56" height="30" width="40" /></a> -->
+  <a href="https://leetcode.com/u/
+Vanshika200003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vanshu778" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/vanshu778/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vanshu778" height="30" width="40" /></a>
 <!--   <a href="https://linktr.ee/dpvasani56" target="blank"><img align="center" src="https://github.com/dpvasani/dpvasani/assets/109815626/789d1777-6921-4b0f-8740-e85977a95dfc" alt="dpvasani56" height="40" width="40" /></a> -->
 <!--   <a href="https://topmate.io/dpvasani_56" target="blank"><img align="center" src="https://github.com/dpvasani/dpvasani/assets/109815626/32b286b1-8629-4a9f-b264-5616342de401" alt="dpvasani_56" height="30" width="30" /></a> -->
-   <a href="https://codolio.com/profile/vanshu778" target="blank"><img align="center" src="https://github.com/user-attachments/assets/bc555784-3a1b-4660-bb42-415e31246a25" alt="dpvasani_56" height="35" width="35" /></a>
+   <a href="https://codolio.com/profile/vanshu778" target="blank"><img align="center" src="https://github.com/user-attachments/assets/bc555784-3a1b-4660-bb42-415e31246a25" alt="vanshu778" height="35" width="35" /></a>
 </p>
 
 
@@ -46,18 +47,29 @@ Here are some ideas to get you started:
 <table align="center" class="table table-dark">
   <tr>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" alt="LinkedIn icon" width="55" height="55" />
+      <br>C
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" alt="C++ icon" width="55" height="55" />
       <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java icon" width="55" height="55" />
+      <br>Java
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=js" alt="JavaScript icon" width="55" height="55" />
       <br>JavaScript
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="React JS icon" width="55" height="55" />
-      <br>React JS
-    </td>
-    <td align="center" width="90">
+  </tr>
+  
+  <tr>
+         <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" alt="HTML icon" width="55" height="55" />
       <br>HTML
     </td>
@@ -65,9 +77,26 @@ Here are some ideas to get you started:
       <img src="https://skillicons.dev/icons?i=css" alt="CSS icon" width="55" height="55" />
       <br>CSS
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap icon" width="55" height="55" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS icon" width="55" height="55" />
+      <br>Tailwind CSS
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" alt="React JS icon" width="55" height="55" />
+      <br>React JS
+    </td>
   </tr>
+  
   <tr>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+ <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX icon" width="55" height="55" />
       <br>LaTeX
     </td>
@@ -80,54 +109,30 @@ Here are some ideas to get you started:
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS icon" width="55" height="55" />
-      <br>Tailwind CSS
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn icon" width="55" height="55" />
+      <br>LinkedIn
+    </td>
+     
+  </tr>
+  
+  <tr>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=replit" alt="Replit icon" width="55" height="55" />
+      <br>Replit
+    </td>
+  <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram icon" width="55" height="55" />
+      <br>Instagram
+    </td>
+  <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop icon" width="55" height="55" />
+      <br>Photoshop
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=notion" alt="Notion icon" width="55" height="55" />
       <br>Notion
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python icon" width="55" height="55" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java icon" width="55" height="55" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram icon" width="55" height="55" />
-      <br>Instagram
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn icon" width="55" height="55" />
-      <br>LinkedIn
-    </td>
-       <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" alt="LinkedIn icon" width="55" height="55" />
-      <br>C
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL icon" width="55" height="55" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=replit" alt="Replit icon" width="55" height="55" />
-      <br>Replit
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop icon" width="55" height="55" />
-      <br>Photoshop
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap icon" width="55" height="55" />
-      <br>Bootstrap
-    </td>
-        <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=figma" alt="Bootstrap icon" width="55" height="55" />
       <br>Figma
     </td>
