@@ -279,9 +279,9 @@ Vanshika200003/" target="blank"><img align="center" src="https://raw.githubuserc
 # 🔥 3D Contributions Chart
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dpvasani/dpvasani/output-3d-contrib/night.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dpvasani/dpvasani/output-3d-contrib/day.svg" />
-  <img alt="3D Contributions Chart" src="https://raw.githubusercontent.com/dpvasani/dpvasani/output-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshu778/vanshu778/output-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanshu778/vanshu778/output-3d-contrib/day.svg" />
+  <img alt="3D Contributions Chart" src="https://raw.githubusercontent.com/vanshu778/vanshu778/output-3d-contrib/profile-night-green.svg" />
 </picture>
 
 
