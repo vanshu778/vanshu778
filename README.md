@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Socials </h1>
 <p align="left">
-<a href="https://x.com/vthesiya_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vthesiya_11" height="30" width="40" /></a> -->
+<a href="https://x.com/vthesiya_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vthesiya_11" height="30" width="40" /></a> 
   <a href="https://www.linkedin.com/in/vanshu778/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vanshika Thesiya" height="30" width="40" /></a>
 <!--   <a href="https://www.instagram.com/dp_vasani56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dp_vasani56" height="30" width="40" /></a> -->
   <a href="https://leetcode.com/u/
