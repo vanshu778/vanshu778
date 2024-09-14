@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/vanshu778/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vanshika Thesiya" height="30" width="40" /></a>
 <!--   <a href="https://www.instagram.com/dp_vasani56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dp_vasani56" height="30" width="40" /></a> -->
   <a href="https://leetcode.com/u/
-Vanshika200003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vanshu778" height="30" width="40" /></a>
+vanshu778/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vanshu778" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/vanshu778/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vanshu778" height="30" width="40" /></a>
 <!--   <a href="https://linktr.ee/dpvasani56" target="blank"><img align="center" src="https://github.com/dpvasani/dpvasani/assets/109815626/789d1777-6921-4b0f-8740-e85977a95dfc" alt="dpvasani56" height="40" width="40" /></a> -->
 <!--   <a href="https://topmate.io/dpvasani_56" target="blank"><img align="center" src="https://github.com/dpvasani/dpvasani/assets/109815626/32b286b1-8629-4a9f-b264-5616342de401" alt="dpvasani_56" height="30" width="30" /></a> -->
@@ -220,7 +220,7 @@ Vanshika200003/" target="blank"><img align="center" src="https://raw.githubuserc
     </td>
     <td>
 <!--     <img src="https://leetcard.jacoblin.cool/dpvasani_56?ext=activity&ext=heatmap&ext=contest" alt="Leetcode Stats" /> -->
-      <img src="https://leetcard.jacoblin.cool/Vanshika200003?ext=activity" alt="Leetcode Stats" />
+      <img src="https://leetcard.jacoblin.cool/vanshu778?ext=activity" alt="Leetcode Stats" />
     </td>
   </tr>
 </table>
