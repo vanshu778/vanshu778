@@ -148,7 +148,7 @@ vanshu778/" target="blank"><img align="center" src="https://raw.githubuserconten
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshu778&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshu778&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&range=all_time" alt="Top Languages" />
     </td>
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshu778&theme=radical" alt="Profile Summary" />
