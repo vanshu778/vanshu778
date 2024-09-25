@@ -133,7 +133,7 @@ vanshu778/" target="blank"><img align="center" src="https://raw.githubuserconten
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vanshu778&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=vanshu778&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshu778&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
