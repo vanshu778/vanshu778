@@ -251,11 +251,11 @@ vanshu778/" target="blank"><img align="center" src="https://raw.githubuserconten
         <img src="https://stats.quine.sh/vanshu778/languages-over-time?theme=dark" alt="vanshu GitHub Languages Over Time" />
       </a>
     </td>
-<!--     <td>
+   <td>
       <a href="https://quine.sh">
         <img src="https://stats.quine.sh/vanshu778/topics-over-time?theme=dark" alt="dpvasani's GitHub Topics Over Time" />
       </a>
-    </td> -->
+    </td>
   </tr>
 </table>
 -->
