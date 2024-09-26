@@ -243,7 +243,7 @@ vanshu778/" target="blank"><img align="center" src="https://raw.githubuserconten
 </table>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
-# ⌛GitHub Languages & Topic Over Time
+<!-- # ⌛GitHub Languages & Topic Over Time
 <table>
   <tr>
     <td>
@@ -262,7 +262,7 @@ vanshu778/" target="blank"><img align="center" src="https://raw.githubuserconten
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 <br>
-
+--> 
 
 # 🔥 3D Contributions Chart
 
