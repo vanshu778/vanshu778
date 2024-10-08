@@ -116,10 +116,10 @@ vanshu778/" target="blank"><img align="center" src="https://raw.githubuserconten
       <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram icon" width="55" height="55" />
       <br>Instagram
     </td>
-<!--   <td align="center" width="90">
+  <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop icon" width="55" height="55" />
       <br>Photoshop
-    </td> -->
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=notion" alt="Notion icon" width="55" height="55" />
       <br>Notion
