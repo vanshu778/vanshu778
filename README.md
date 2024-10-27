@@ -81,6 +81,30 @@ vanshu778/" target="blank"><img align="center" src="https://raw.githubuserconten
       <br>React JS
     </td>
   </tr>
+
+    <tr>
+         <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
+      <br>Node Js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="55" height="55" />
+      <br>Npm
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
+      <br>MongoDB
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="55" height="55" />
+      <br>Postman
+    </td>
+  </tr>
+  
   
   <tr>
     <td align="center" width="90">
