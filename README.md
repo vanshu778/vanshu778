@@ -4,7 +4,7 @@
 
  
  
-# 💫 About Me:         
+# 💫 About Me:          
 Software Development Enthusiast | FullStack Developer
   
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> Open-source contributor from India
